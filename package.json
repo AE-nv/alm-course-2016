@@ -2,22 +2,22 @@
   "name": "alm-course",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "https://github.com/piether/alm-course",
+  "homepage": "https://github.com/TPX01/alm-course-2016",
   "author": {
-    "name": "Pieter Herroelen",
-    "email": "pieter.herroelen@gmail.com"
+    "name": "Thomas Petit",
+    "email": "thomas.marc.petit@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/piether/alm-course.git"
+    "url": "git://github.com/TPX01/alm-course-2016.git"
   },
   "bugs": {
-    "url": "https://github.com/piether/alm-course/issues"
+    "url": "https://github.com/TPX01/alm-course-2016/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/piether/alm-course/blob/master/LICENSE-MIT"
+      "url": "https://github.com/TPX01/alm-course-2016"
     }
   ],
   "main": "lib/alm-course",
