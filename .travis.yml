@@ -3,3 +3,6 @@ node_js:
   - '0.10'
 before_script:
   - npm install -g grunt-cli
+deploy:
+  provider: heroku
+  api_key: 10432686-0d62-4df7-b99f-00b083a054ba
