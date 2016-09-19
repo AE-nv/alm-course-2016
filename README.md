@@ -15,3 +15,8 @@ Lokaal builden
 --------------
 
    grunt
+
+Lokaal testen
+-------------
+
+   grunt nodeunit

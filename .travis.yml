@@ -5,7 +5,7 @@ before_script:
   - npm install -g grunt-cli
 deploy:
   provider: heroku
-  api_key: 10432686-0d62-4df7-b99f-00b083a054ba
+  api_key: $HEROKU_KEY
   app:
     master: alm-course-2016-staging
     production: alm-course-2016-production
