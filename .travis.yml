@@ -7,5 +7,7 @@ deploy:
   provider: heroku
   api_key: $HEROKU_KEY
   app:
-    master: alm-course-2016-staging
-    production: alm-course-2016-production
+    - master: alm-course-2016-staging
+    - production: alm-course-2016-production
+    - /^feature.*$/: alm-course-2016-dev
+    - dev: alm-course-2016-dev
